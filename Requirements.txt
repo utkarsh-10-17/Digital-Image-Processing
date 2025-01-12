@@ -1,0 +1,2 @@
+MATLAB: R2020a or later (preferably)
+Image Processing Toolbox (for advanced algorithms)
