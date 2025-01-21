@@ -1,6 +1,6 @@
 # Digital Image Processing 
 
-**Digital Image Processing ** is a project focused on applying various image processing techniques using MATLAB. The project includes image enhancement, filtering, segmentation, edge detection, and feature extraction, aimed at analyzing and processing images for various real-world applications.
+**Digital Image Processing ** is focused on applying various image processing techniques using MATLAB. This includes image enhancement, filtering, segmentation, edge detection, and feature extraction, aimed at analyzing and processing images for various real-world applications.
 
 ## Table of Contents
 - [Installation](#installation)
