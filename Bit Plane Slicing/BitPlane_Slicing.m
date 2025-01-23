@@ -2,6 +2,10 @@
 % DIP lab 3 
 % To Perform Bit Plane Slicing
 
+clc
+clear all
+close all
+
 % Read the input image
 image = imread('Utkarsh.png');
 
